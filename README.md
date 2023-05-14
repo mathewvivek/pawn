@@ -6,7 +6,7 @@ Ruby version : 2.7.6
 
 run `bundle install`
 
-run `rspec /spec`
+run `rspec ./spec`
 
 # Local Testing
 
